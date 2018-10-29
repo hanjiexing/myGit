@@ -4,3 +4,4 @@ git has a index stage.
 git tracks changes.
 git tracks changes1.
 git tracks changes2.
+进行一波添加在分支上。
